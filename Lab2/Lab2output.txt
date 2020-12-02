@@ -1,0 +1,18 @@
+129:David P. Roselle Hall   	0568   	B6   
+130:Davis Marksbury Building   	0633   	B5   
+138:Digital Village 1   	0495   	B5   
+139:Digital Village 2   	0633   	B5   
+8:Agicultural Engineering   	0276   	H7   
+104:Chief Engineer House   	0021   	C5   
+149:Engineering Annex   	0038   	C6   
+150:Engineering Quadrangle   	0037   	C7   
+293:Mechanical Engineering Building   	0503   	C7   
+327:Old Engineering Residence   	0021   	C5   
+330:Oliver H. Raymond Civil Engineering Building   	0281   	C7   
+432:Terrell Civil Engineering Building   	0052   	D7   
+  139  cd CS216/
+  140  cd Lab2/
+  141  cat UKY_buildings.txt 
+  142  cat UKY_buildings.txt | sort | grep -n "^D.*B[5-7]" > Lab2output.txt
+  143  cat UKY_buildings.txt | sort | grep -n -i "engineer.*\(C[5-7]\|D7\|H7\)" >> Lab2output.txt 
+  144  history | tail -5 >> Lab2output.txt 

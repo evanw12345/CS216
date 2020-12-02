@@ -1,0 +1,60 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  ipconfig
+    4  ls
+    5  nano examples.desktop 
+    6  cd Desktop/
+    7  ls
+    8  cd ../
+    9  ls Templates/
+   10  cd Templates/
+   11  ls
+   12  cd ../
+   13  cd P
+   14  cd Public/
+   15  ls
+   16  cd ../
+   17  ifconfig
+   18  ssh pi@raspberrypi
+   19  ssh 192.168.0.17
+   20  logout
+   21  sudo apt-get update
+   22  logout
+   23  exit
+   24  sudo apt-get update
+   25  sudo apt-get upgrade -y
+   26  sudo update nomachine
+   27  sudo nomachine
+   28  sudo apt update nomahcine
+   29  sudo apt update
+   30  sudo apt upgradwe
+   31  sudo apt upgrade
+   32  help
+   33  kill bb
+0------------ Start of Lab 1 -------------------0
+   34  cd CS216/
+   35  cd Lab1/
+   36  ls
+   37  pwd > file1
+   38  las
+   39  ls
+   40  cat file1 
+   41  ls -1
+   42  ls -1 >> file1 
+   43  LS
+   44  nano lab1
+   45  fg
+   46  cat lab1
+   47  echo shell
+   48  echo $shell
+   49  echo $SHELL
+   50  man ls
+   51  history > file2
+                                                                             
+ mmmmmm           "                          mmm   mmmm   mmmm  mmm      mmm 
+ #      m mm    mmm    mmm   m   m         m"   " #"   " "   "#   #    m"   "
+ #mmmmm #"  #     #   #" "#  "m m"         #      "#mmm      m"   #    #m""#m
+ #      #   #     #   #   #   #m#          #          "#   m"     #    #    #
+ #mmmmm #   #     #   "#m#"   "#            "mmm" "mmm#" m#mmmm mm#mm   #mm#"
+                  #           m"                                             
+                ""           ""                                              

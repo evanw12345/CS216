@@ -1,0 +1,473 @@
+Taylor Education Building   	0001   	B8   
+Scott Street Building   	0002   	C8   
+College of Public Health Building   	0003   	D7   
+Research Facility 1   	0003   	D7   
+Central Heating Plant 2   	0004   	B7   
+Frank D. Peterson Service Building   	0005   	B7   
+Peterson Service Building   	0005   	B7   
+Service Building   	0005   	B7   
+Holmes Hall   	0006   	A6   
+Jewell Hall   	0007   	B6   
+Boyd Hall   	0008   	B6   
+Patterson Hall   	0009   	A6   
+Hamilton House   	0010   	A6   
+Keeneland Hall   	0011   	A6   
+Blazer Hall   	0012   	B6   
+Boone Center   	0014   	D6   
+Faculty Club   	0014   	D6   
+Hilary J. Boone Center   	0014   	D6   
+Sturgill Development Building   	0015   	C5   
+Dickey Hall   	0017   	B8   
+Memorial Coliseum   	0019   	B5   
+Engineering Transportation Research Garage   	0020   	C8   
+Chief Engineer House   	0021   	C5   
+Old Engineering Residence   	0021   	C5   
+Wessels House   	0021   	C5   
+Fine Arts Building   	0022   	C6   
+Tuska Gallery of Contemporary Art   	0022   	C6   
+Police Station   	0023   	C5   
+Safety and Security Building   	0023   	C5   
+Lafferty Hall   	0024   	C6   
+White Hall Classroom Building   	0025   	C6   
+Bookstore   	0026   	B6   
+Student Center Addition   	0026   	B6   
+Worsham Theater   	0026   	B6   
+Patterson Office Tower   	0027   	C6   
+Barker Hall and Buell Armory   	0028   	B7   
+Alumni Gymnasium   	0029   	B6   
+Center Theater   	0030   	B7   
+Grand Ballroom   	0030   	B7   
+Rasdall Gallery   	0030   	B7   
+Student Center   	0030   	B7   
+Frazee Hall   	0031   	B7   
+Administration Building   	0032   	C7   
+College Building   	0032   	C7   
+Main Building   	0032   	C7   
+Visitor Center   	0032   	C7   
+Administration Annex   	0033   	C7   
+Ezra Gillis Building   	0033   	C7   
+Gillis Building   	0033   	C7   
+Gillis Hall   	0033   	C7   
+Business and Economics Building   	0034   	C7   
+Carol Martin Gatton Business and Economics Building   	0034   	C7   
+Commerce Building   	0034   	C7   
+Gatton Business and Economics Building   	0034   	C7   
+Miller Hall   	0035   	C7   
+Anderson Hall Quadrangle   	0037   	C7   
+Engineering Quadrangle   	0037   	C7   
+Engineering Annex   	0038   	C6   
+Mining Laboratory   	0038   	C6   
+King Library   	0039   	C6   
+King Library South   	0039   	C6   
+Margaret I. King Library   	0039   	C6   
+Maxwell Place   	0040   	D6   
+Pence Hall   	0041   	D6   
+Enoch Grehan Journalism Building   	0042   	D6   
+Grehan Building   	0042   	D6   
+S. J. "Sam" Whalen Building   	0043   	C7   
+Kastle Hall   	0044   	D6   
+McVey Hall   	0045   	D7   
+Anderson Hall   	0046   	C7   
+F. Paul Anderson Tower   	0046   	C7   
+Mathews Building   	0047   	C7   
+Law Building   	0048   	D7   
+Memorial Hall   	0049   	D7   
+Erikson Hall   	0050   	D7   
+Mineral Industries Building   	0051   	D7   
+Terrell Civil Engineering Building   	0052   	D7   
+Old Pharmacy Building   	0053   	D7   
+Slone Research Building   	0053   	D7   
+Funkhouser Building   	0054   	D7   
+Chemistry-Physics Building   	0055   	D6   
+Breckinridge Hall   	0056   	D6   
+Kinkead Hall   	0057   	D6   
+Bradley Hall   	0058   	D6   
+Bowman Hall   	0059   	D6   
+Nursery   	0060   	D7   
+Tobacco Greenhouse   	0061   	D7   
+Tobacco Research Lab   	0061   	D7   
+Insectary and Conservatory   	0062   	D7   
+Agricultural Experiment Station   	0064   	D7   
+Scovell Hall   	0064   	D7   
+Small Animal Lab   	0065   	E7   
+Agronomy Headhouse and Greenhouses   	0066   	E7   
+Chi Omega House   	0067   	D5   
+Delta Delta Delta House   	0068   	D6   
+Alpha Delta Pi House   	0069   	D6
+Wenner-Gren Research Laboratory   	0070   	E6   
+K-Lair Grill and Food Storage Building   	0071   	E6   
+Donovan Hall   	0072   	E6   
+Cooper Building   	0073   	E6   
+Dairy Products Building   	0073   	E6   
+Forestry Building   	0073   	E6   
+Thomas Poe Cooper Building   	0073   	E6   
+Shively Track and Field Stadium   	0074   	F3   
+Stadium, Shively Track and Field   	0074   	F3   
+Track and Field Stadium, Shively   	0074   	F3   
+Kelley Hall   	0075   	F6   
+Medical Center PPD   	0075   	F6   
+Dimock Animal Pathology Building   	0076   	F6   
+Medical Center Annex 5   	0078   	F6   
+Outreach Center for Health and Science Opportunities   	0078   	F6   
+Wilford Meats Laboratory   	0078   	F6   
+Central Hall II   	0079   	E6   
+New Haggin Field Dorm II   	0079   	E6   
+Central Hall I   	0080   	E6   
+New Haggin Field Dorm I   	0080   	E6   
+Cooker Trailer Storage   	0081   	G8   
+Multidisciplinary Science Building   	0082   	E7   
+Old College of Pharmacy Building   	0082   	E7   
+Medical Center   	0084   	F7   
+College of Medicine Office Building   	0086   	F6   
+Medical Behavioral Science Building   	0086   	F6   
+Medical Center Storage   	0087   	J4   
+Motor Pool Building   	0088   	I4   
+Cooling Plant 1   	0089   	G6   
+Bolivar Building   	0090   	A8   
+University Lofts   	0090   	A8   
+Agricultural Science Center North   	0091   	G7   
+Seay Auditorium   	0091   	G7   
+Seed House   	0092   	G7   
+Markey Cancer Center   	0093   	E7   
+Roach Patient Care Building   	0093   	E7   
+Cooper House   	0094   	H7   
+Champions Court Dormitory I   	0095   	B6   
+New North Dorm I   	0095   	B6   
+Combs Cancer Research Center   	0096   	F6   
+Dorothy Enslow Combs Cancer Research Facility   	0096   	F6   
+E. S. Good Barn   	0097   	H6   
+Davis-Mills MRI and Spectroscopy Center   	0098   	E6   
+MRISC   	0098   	E6   
+Whitney-Hendrickson Building   	0098   	E6   
+Gluck Equine Research Center   	0099   	I7   
+Raymond Barnhart Gallery   	0101   	B8   
+Reynolds Building 1   	0101   	B8   
+Reynolds Warehouse 1   	0101   	B8   
+Reynolds Building 2   	0102   	B8   
+Reynolds Warehouse 2   	0102   	B8   
+Reynolds Building 3   	0103   	B8   
+Reynolds Warehouse 3   	0103   	B8   
+Woodland Glen Dormitory I   	0104   	E5   
+Commonwealth Village 2   	0105   	H7   
+Commonwealth Village 1   	0106   	H8   
+Kentucky Geological Survey   	0107   	D6   
+Mining and Mineral Research Building   	0107   	D6   
+Mining and Minerals Resources Building   	0107   	D6   
+Center for Robotics and Manufacturing Systems   	0108   	D7   
+CRMS Building   	0108   	D7   
+Robotics Building   	0108   	D7   
+Haggin Hall   	0111   	E6   
+Shively Sports Center   	0113   	G4   
+Track Storage Building   	0114   	F4   
+Helen King Alumni Building   	0119   	C5   
+King Alumni House   	0119   	C5   
+Woodland Glen Dormitory II   	0120   	E4   
+Sigma Nu House   	0121   	D5   
+Delta Gamma House   	0122   	D5   
+Champions Court II   	0123   	B6   
+New North Dorm II   	0123   	B6   
+Delta Zeta House   	0124   	D5   
+Kappa Alpha Theta House   	0125   	D5   
+Alpha Gamma Delta House   	0126   	D5   
+Sigma Kappa House   	0127   	D5   
+Kappa Delta House   	0128   	D5   
+Delta Sigma Phi House   	0129   	D5   
+Lambda Chi Alpha House   	0137   	F5   
+Phi Sigma Kappa House   	0138   	F5   
+Kappa Sigma House   	0140   	F5   
+Farmhouse Fraternity   	0142   	E5   
+Blanding Dormitory II   	0143   	F5   
+Blanding Dormitory III   	0144   	F5   
+Blanding Dormitory Tower   	0145   	F5   
+Blanding Dormitory IV   	0146   	F5   
+Complex Commons Building   	0147   	F5   
+Kirwan Dormitory IV   	0148   	F5   
+Kirwan Dormitory Tower   	0149   	F5   
+Kirwan Dormitory III   	0150   	F5   
+Kirwan Dormitory II   	0151   	F5   
+Kirwan Dormitory I   	0152   	F5   
+Blanding Dormitory I   	0153   	F5   
+Agriculture Headhouse   	0154   	G6   
+Agriculture Greenhouse 2   	0155   	G6   
+Agriculture Greenhouse 4   	0156   	G6   
+Agriculture Greenhouse 7   	0157   	G6   
+Agriculture Greenhouse 5   	0158   	G6   
+Agriculture Greenhouse 3   	0159   	G6   
+Agriculture Greenhouse 1   	0160   	G6   
+Agriculture Greenhouse 9   	0161   	G6   
+Agriculture Greenhouse 11   	0162   	G6   
+Agriculture Greenhouse 6   	0163   	G6   
+Administration Drive Guardhouse   	0166   	C7   
+Gate 1   	0166   	C7   
+Chemistry/Physics Guardhouse   	0167   	D5   
+Gate 3   	0167   	D5   
+Gate 2   	0168   	D7   
+Washington Avenue Guardhouse   	0168   	D7   
+Motor Pool Residence   	0177   	I4   
+Woodland Glen Dormitory III   	0181   	E5   
+Agriculture Isolation Barn Incinerator   	0182   	J4   
+Agriculture Isolation Barn   	0183   	J4   
+Agriculture Machine Research Lab   	0184   	J4   
+Garage by Motor Pool Residence   	0185   	I4   
+Woodland Glen Dormitory IV   	0186   	E5   
+Blue Lot Bus Shelter   	0187   	J5   
+Bus Shelter 5   	0187   	J5   
+Woodland Glen Dormitory V   	0188   	E5   
+Shawneetown Building A   	0189   	K6   
+Shawneetown Building B   	0190   	K6   
+Shawneetown Building D   	0191   	K6   
+Shawneetown Building F   	0192   	L6   
+Shawneetown Building E   	0193   	L6   
+Shawneetown Building C   	0194   	K6   
+Parking Garage 1   	0197   	G6   
+Parking Structure 1   	0197   	G6   
+Parking Garage 2   	0198   	D6   
+Parking Structure 2   	0198   	D6   
+Kentucky Clinic Parking Garage   	0199   	E7   
+Parking Garage 3   	0199   	E7   
+Parking Structure 3   	0199   	E7   
+Allied Health Building   	0200   	F7   
+Charles T. Wethington, Jr. Building   	0200   	F7   
+Health Sciences Building   	0200   	F7   
+Wethington Building   	0200   	F7   
+Parking Garage 5   	0202   	B7   
+Parking Structure 5   	0202   	B7   
+Metal Arts Building   	0207   	B8   
+Centrifuge Building   	0209   	E6   
+Reynolds Warehouse 4   	0210   	B8   
+Maxwell Place Garage   	0211   	D6   
+Lancaster Aquatic Center   	0212   	G5   
+Boone Tennis Center   	0213   	G5   
+Hilary J. Boone Tennis Center   	0213   	G5   
+Tennis Center   	0213   	G5   
+Agricultural Science Center South   	0215   	G7   
+Garrigus Building   	0215   	G7   
+Multidisciplinary Research Lab 3   	0216   	E7   
+Research Building 3   	0216   	E7   
+Seaton Center   	0219   	G6   
+Bernard M. Johnson Student Recreation Center   	0220   	G5   
+Johnson Student Recreation Center   	0220   	G5   
+Commonwealth Stadium   	0222   	I5   
+Football Field   	0222   	I5   
+Stadium, Commonwealth   	0222   	I5   
+Warren Wright Medical Plaza   	0223   	E7   
+Fine Arts Library   	0224   	C6   
+King Library North   	0224   	C6   
+Little Library   	0224   	C6   
+Lucille C. Little Fine Arts Library   	0224   	C6   
+Biology Building   	0225   	E6   
+Morgan Building   	0225   	E6   
+Thomas Hunt Morgan Biological Sciences Building   	0225   	E6   
+Recreation Equipment Storage Building   	0227   	G4   
+Agriculture Distribution Center   	0229   	J4   
+Center on Aging, Sanders-Brown   	0230   	E7   
+Sanders-Brown Center on Aging   	0230   	E7   
+Farm Maintenance Storage Building   	0231   	J4   
+College of Nursing Building   	0232   	E7   
+Health Sciences Learning Center   	0232   	E7   
+HSLC   	0232   	E7   
+Nursing and Health Sciences Building   	0232   	E7   
+John W Oswald Building   	0235   	H5   
+Oswald Building   	0235   	H5   
+Kentucky Tobacco Research and Development Center   	0236   	H6   
+Tobacco and Health Research Institute   	0236   	H6   
+Wenner-Gren Research Addition   	0237   	E6   
+Graduate Student Apartments   	0240   	D4   
+Art Museum   	0241   	C5   
+Concert Hall   	0241   	C5   
+President's Room   	0241   	C5   
+Recital Hall   	0241   	C5   
+Singletary Center for the Arts   	0241   	C5   
+Joe B. Hall Wildcat Lodge   	0242   	B6   
+Wildcat Lodge   	0242   	B6   
+Greg Page Building 1   	0243   	K5   
+Greg Page Building 2   	0244   	K5   
+Greg Page Building 3   	0245   	K5   
+Greg Page Building 4   	0246   	K6   
+Greg Page Building 5   	0247   	K6   
+Greg Page Building 6   	0248   	K6   
+Greg Page Building 7   	0249   	K6   
+Greg Page Building 8   	0250   	L6   
+Greg Page Building 9   	0251   	L6   
+Greg Page Building 10   	0252   	L6   
+Greg Page Building 11   	0253   	L6   
+Greg Page Building 12   	0254   	L6   
+Greg Page Building 13   	0255   	L6   
+Greg Page Building 14   	0256   	L6   
+Greg Page Building 15   	0257   	L5   
+Greg Page Building 16   	0258   	L5   
+Greg Page Building 17   	0259   	L5   
+Greg Page Building 18   	0260   	L5   
+Greg Page Building 19   	0261   	L5   
+Greg Page Building 20   	0262   	L5   
+Greg Page Building 21   	0263   	K5   
+Greg Page Building 22   	0264   	K5   
+Greg Page Building 23   	0265   	K5   
+Greg Page Building 24   	0266   	K5   
+Greg Page Building 25   	0267   	K5   
+Greg Page Food Storage and Laundry   	0268   	L6   
+Communications Storage Building   	0269   	J4   
+Information Building   	0272   	I5   
+Moloney Building   	0274   	H5   
+Poundstone Regulatory Services Building   	0275   	J6   
+Regulatory Services   	0275   	J6   
+Agicultural Engineering   	0276   	H7   
+Charles E. Barnhart Building   	0276   	H7   
+Nutter Football Training Facility   	0277   	G4   
+PPD Storage Building   	0278   	J4   
+BIRP Building   	0279   	J3   
+Recycle Center   	0279   	J3   
+Oliver H. Raymond Civil Engineering Building   	0281   	C7   
+Baseball Stadium, Hagan   	0283   	G4   
+Hagan Baseball Stadium   	0283   	G4   
+Stadium, Hagan Baseball   	0283   	G4   
+Kentucky Clinic   	0284   	E7   
+Nutter Field House   	0285   	I4   
+ASTeCC Building   	0286   	D7   
+HVAC Building   	0287   	J4   
+PPD Greenhouse   	0288   	J3   
+Hazardous Waste Storage Building   	0289   	J3   
+Albert B. Chandler Hospital Pavilion H   	0293   	F7   
+Kentucky Children's Hospital   	0293   	F7   
+Pavilion H   	0293   	F7   
+Gill Heart Institute   	0294   	F7   
+Dental Science Building   	0297   	F6   
+Medical Science Building   	0298   	F6   
+William R. Willard Medical Education Building   	0298   	F6   
+Arboretum Tool Shed   	0300   	L4   
+Arboretum Visitor Center   	0302   	L4   
+Dorotha Smith Oatts Visitor Center   	0302   	L4   
+Bosomworth Health Sciences Research Building   	0305   	F6   
+Health Sciences Research Building   	0305   	F6   
+HSRB   	0305   	F6   
+Peter P. Bosomworth Health Sciences Research Building   	0305   	F6   
+Plant Science Building   	0312   	H7   
+Environmental Health and Safety   	0314   	B5   
+Kentucky Humanities Council   	0315   	A5   
+Appalachian Center Annex   	0333   	D7   
+Thomas D. Clark Building   	0336   	D7   
+University Press   	0336   	D7   
+Bingham-Davis House   	0343   	A5   
+Gaines Center for the Humanities (3)   	0343   	A5   
+Betts House   	0344   	A5   
+Gaines Center for the Humanities (2)   	0344   	A5   
+Raymond F. Betts House   	0344   	A5   
+German House   	0345   	A5   
+Max Kade House and Cultural Center   	0345   	A5   
+Math House   	0346   	D8   
+Appalachian Center   	0347   	D8   
+School Psychology Clinic   	0349   	D8   
+Center on Drug and Alcohol Research   	0350   	D8   
+Jessie Harris Psychology Services Center   	0351   	D8   
+Emergency Management   	0353   	F4   
+Opera Cottage, UK   	0377   	C5   
+UK Opera Cottage   	0377   	C5   
+Academy for Creative Excellence   	0378   	C5   
+Alumni Gym Bus Shelter   	0390   	B6   
+Bus Shelter 1   	0390   	B6   
+Bus Shelter 2   	0391   	C5   
+Rose and Euclid Bus Shelter   	0391   	C5   
+Bus Shelter 3   	0392   	D6   
+Chem-Physics Bus Shelter   	0392   	D6   
+Bus Shelter 7   	0393   	H5   
+Ag Science Bus Shelter   	0394   	G6   
+Bus Shelter 6   	0394   	G6   
+Bus Shelter 15   	0395   	E9   
+Ellen H. Richards House   	0400   	D8   
+Legal Clinic   	0400   	D8   
+Richards House   	0400   	D8   
+Saint Agnes House   	0401   	D8   
+Weldon House   	0401   	D8   
+Softball and Soccer Locker Room   	0413   	J3   
+Learning Services   	0417   	D7   
+Mathews House   	0417   	D7   
+Commonwealth House   	0432   	A5   
+Gaines Center for the Humanities   	0432   	A5   
+Koinonia House   	0433   	C5   
+Schmidt Vocal Arts Center   	0433   	C5   
+William E. and Casiana Schmidt Vocal Arts Center   	0433   	C5   
+Donovan Scholars   	0442   	D7   
+Ligon House   	0442   	D7   
+Cropp Stadium, John   	0446   	K3   
+John Cropp Stadium   	0446   	K3   
+Softball Stadium   	0446   	K3   
+Stadium, John Cropp   	0446   	K3   
+Soccer Field Press Box   	0451   	J3   
+W. T. Young Library   	0456   	E5   
+Academic Technical Building   	0481   	H4   
+Real Properties Garage   	0484   	E4   
+Boone Tennis Stadium   	0485   	G5   
+Stadium, Boone Tennis   	0485   	G5   
+Tennis Stadium   	0485   	G5   
+KinderCare Learning Center   	0488   	E4   
+Woodland Early Learning Center   	0488   	E4   
+Environmental Quality Management Center   	0490   	G6   
+James W. Stuckert Career Center   	0494   	C5   
+Stuckert Career Center   	0494   	C5   
+Career Center   	0494   	C5		
+Digital Village 1   	0495   	B5   
+Hardymon Building   	0495   	B5   
+James F. Hardymon Building   	0495   	B5   
+Mechanical Engineering Building   	0503   	C7   
+Ralph G. Anderson Building   	0503   	C7   
+Sigma Chi House   	0504   	D5   
+Alpha Tau Omega House   	0505   	D5   
+Sigma Phi Epsilon House   	0505   	D5   
+Meter Test Building   	0506   	E4   
+Robert Straus Behavioral Research Building   	0506   	E4   
+Sigma Alpha Epsilon House   	0507   	D5   
+BBSRB   	0509   	E7   
+Biomedical/Biological Sciences Research Building   	0509   	E7   
+BBSRB Utility Plant   	0514   	E9   
+College of Medicine Learning Center   	0517   	E8   
+Mersack/Leavell Building   	0517   	E8   
+BBSRB Generator Building   	0518   	E9   
+IRIS Project Building   	0564   	B8   
+John T. Smith Residence Hall   	0565   	F5   
+Smith Hall   	0565   	F5   
+Baldwin Hall   	0566   	F4   
+Dale E. Baldwin Residence Hall   	0566   	F4   
+Ingels Hall   	0567   	F4   
+Margaret Ingels Residence Hall   	0567   	F4   
+David P. Roselle Hall   	0568   	B6   
+New North Residence Hall   	0568   	B6   
+Roselle Hall   	0568   	B6   
+Parking Garage 6   	0571   	E8   
+Parking Structure 6   	0571   	E8   
+Parking Garage 7   	0572   	G4   
+Parking Structure 7   	0572   	G4   
+Student Health Clinic   	0582   	F7   
+University Health Service Building   	0582   	F7   
+Biological-Pharmaceutical Building   	0596   	E8   
+BioPharm Complex   	0596   	E8   
+College of Pharmacy Building   	0596   	E8   
+Parking Garage 8   	0601   	F8   
+Parking Structure 8   	0601   	F8   
+UK HealthCare Parking Garage   	0601   	F8   
+Albert B. Chandler Hospital Pavilion A   	0602   	F7   
+Pavilion A   	0602   	F7   
+Basketball Practice Facility   	0604   	B5   
+Joe Craft Center   	0604   	B5   
+Good Samaritan Medical Office Building   	0611   	A6   
+Good Samaritan Parking Garage   	0613   	A6   
+Good Samaritan Parking Structure   	0613   	A6   
+MacAdam Student Observatory   	0618   	D6   
+Air Medical Crew Quarters   	0630   	J4   
+Davis Marksbury Building   	0633   	B5   
+Digital Village 2   	0633   	B5   
+Men's Basketball Dorm   	0644   	B5   
+Wildcat Coal Lodge   	0644   	B5   
+VA Hospital   	2142   	F6   
+Veterans Affairs Medical Center   	2142   	F6   
+Rupp Arena   	2147   	A8   
+Dorm Complex   	4005   	F5   
+Kirwan-Blanding Dorm Complex   	4005   	F5   
+Good Samaritan Hospital   	8633   	A6   
+UK HealthCare Good Samaritan Hospital   	8633   	A6   
+Good Samaritan Professional Arts Center   	9733   	A6   
+CDCB   	9813   	K6   
+Child Development Centers of the Bluegrass   	9813   	K6   
+UK Child Care Development Center   	9813   	K6   
+Archaeology Research Facility   	9854   	E9   
+College of Medicine Building   	9983   	E8   
+Old KMSF Building   	9983   	E8   
