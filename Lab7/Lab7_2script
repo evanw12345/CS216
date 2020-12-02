@@ -1,0 +1,86 @@
+#!/bin/bash
+# Provide a simple math tutor for a second-grade student in an elementary school
+# Repeatedly display the main menu to let the user choose an option (enter Q or q to quit):
+#    if opiton is 1, generate an addition problem for the user to solve
+#    if opiton is 2, generate a subtraction problem for the user to solve (the answer can not be a negative number)
+#    if opiton is 3, generate a multiplication problem for the user to solve
+#    if other option, display the message of invalid choice.
+# For each option of 1, 2, or 3, it should wait for the user to enter the answer
+#    if the answer is correct, a message of congratulations should be displayed
+#    if the answer is wrong, the correct answer should be displayed
+
+echo "     Math Is Fun! Take a challenge..."
+echo "-------------------------------------"
+echo "1. Addition problem"
+echo "2. Subtraction problem"
+echo "3. Multiplication problem"
+echo "-------------------------------------"
+echo "Please input your menu option (enter Q or q to quit)"
+read usr_option
+
+# Your script should start here
+# create a loop to repeatedly ask the user to input the option from the main menu until the user enters Q or q to quit
+
+#Describes minimum and maximum parameters for each of the problems
+minAddSub=1
+maxAddSub=500
+minMult=1
+maxMult1=100
+maxMult2=9
+
+#Loop
+while [[ $usr_option!="Q" ]] || [[ $usr_option!="q" ]]
+do
+    case $usr_option in
+        #Addition
+        [1])operand1=$(((RANDOM % (maxAddSub - minAddSub + 1)) +minAddSub)) 
+          operand2=$(((RANDOM % (maxAddSub - minAddSub + 1)) +minAddSub))
+          echo "$operand1 + $operand2 ="
+          read usrAnswer
+          Answer=$[ operand1+operand2 ]
+          if [ $usrAnswer == $Answer ]
+          then echo "Congratulations! $Answer is the right answer"
+          else echo "Sorry, the correct answer is $Answer"
+          fi;;
+
+        #Subtraction
+       [2]) operand1=$(((RANDOM % (maxAddSub - minAddSub + 1)) +minAddSub)) 
+          operand2=$(((RANDOM % (maxAddSub - minAddSub + 1)) +minAddSub))
+          while [ $operand1 -lt $operand2 ]
+          do operand2=$(((RANDOM % (maxAddSub - minAddSub + 1)) +minAddSub))
+          done
+          echo "$operand1 - $operand2 ="
+          read usrAnswer
+          Answer=$[ operand1-operand2 ]
+          if [ $usrAnswer == $Answer ]
+          then echo "Congratulations! $Answer is the right answer"
+          else echo "Sorry, the correct answer is $Answer"
+          fi;;
+
+        #Multiplication
+        [3])operand1=$(((RANDOM % (maxMult1 - minMult + 1)) +minAddSub)) 
+          operand2=$(((RANDOM % (maxMult2 - minMult + 1)) +minAddSub))
+          echo "$operand1 * $operand2 ="
+          read usrAnswer
+          Answer=$[ operand1*operand2 ]
+          if [ $usrAnswer == $Answer ]
+          then echo "Congratulations! $Answer is the right answer"
+          else echo "Sorry, the correct answer is $Answer"
+          fi;;
+
+        #Quit 
+        [Qq]) break;;
+
+        #Default case 
+        *) echo "Your choice is not valid";;
+    esac
+    echo "Math Is Fun! Take a challenge..."    
+    echo "-------------------------------------"   
+    echo "1. Addition problem" 
+    echo "2. Subtraction problem"  
+    echo "3. Multiplication problem"   
+    echo "-------------------------------------"   
+    echo "Please input your menu option (enter Q or q to quit)"
+    read usr_option
+done
+ echo "Hope you enjoy solving Math problems, see you later..."

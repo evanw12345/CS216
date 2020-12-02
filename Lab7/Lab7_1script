@@ -1,0 +1,31 @@
+#!/bin/bash
+clear    
+hname=`hostname`
+echo 'Welcome on $hname!'
+echo 'Is this what I want to display?'
+echo
+echo "Welcome on $hname!"
+echo -n "It is currently: ";date     
+echo -n "I am logged on as: ";whoami       
+echo "I am currently in the directory: `pwd`"    
+echo
+#ask the user if he/she wants to see a few random numbers?(Y for yes, N or no)
+#demonstrate how to generate random numbers in the specified range [min, max]
+min=1
+max=216
+echo "Do you want me to show you how to generate a few random numbers in the range of [$min, $max] (type Y for Yes or N for No)?"
+read usr_option
+    
+case $usr_option in
+    [Yy])HOWMANY=$(((RANDOM % 10) +1))
+         echo "I will generate $HOWMANY random numbers in the range of [$min, $max]:"
+         for ((i=0; i < $HOWMANY; i++))
+         do
+             rnum=$(((RANDOM % (max - min + 1)) +min))
+             echo "No. $((i+1)): $rnum"
+         done;;
+    [Nn]);;
+    *)echo "Your choice is not valid";;
+esac
+echo "Have a great day!"
+
